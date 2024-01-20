@@ -1,1 +1,1 @@
-Name: Sangeetha Baddam Student ID: 700757191 Video Link : https://drive.google.com/file/d/1VgcUkXfUqVju1S9ZS34l0rMl_ue95aRP/view?usp=drive_link code File : assignment2.py Documentation file : Assignment NNDL-2.pdf
+Name: Sangeetha Baddam Student ID: 700757191 Video Link : [https://drive.google.com/file/d/1VgcUkXfUqVju1S9ZS34l0rMl_ue95aRP/view?usp=drive_link](https://drive.google.com/file/d/1XQ6lI2mgHJUyDDxwQYN5f6iSShqMOiwJ/view)https://drive.google.com/file/d/1XQ6lI2mgHJUyDDxwQYN5f6iSShqMOiwJ/view code File : assignment2.py Documentation file : Assignment NNDL-2.pdf
